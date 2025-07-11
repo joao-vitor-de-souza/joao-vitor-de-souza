@@ -25,9 +25,4 @@
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-de-souza&layout=compact&theme=radical&hide_border=false)
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=joao-vitor-de-souza&icon=0&color=0" alt="Visit Count"/>
-</p>
-
 <!-- Criado com carinho usando GPRM ( https://gprm.itsvg.in ) -->
