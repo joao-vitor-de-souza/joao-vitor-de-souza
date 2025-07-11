@@ -22,7 +22,6 @@
 # 📊 Estatísticas do GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=joao-vitor-de-souza&theme=radical&hide_border=false)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joao-vitor-de-souza&theme=radical&hide_border=false)  
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-de-souza&layout=compact&theme=radical&hide_border=false)
 
 ---
